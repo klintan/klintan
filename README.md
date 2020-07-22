@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Robotics enthusiast
+- NLP practitioner
+- Building stuff!
+
 <!--
 **klintan/klintan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
